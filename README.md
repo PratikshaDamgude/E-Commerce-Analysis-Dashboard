@@ -7,6 +7,10 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 ## Objective 
 Owner of Mahadev Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
+## Dashboard
+
+
+
 ## Insights 
 
 #### 1. Overall Performance:
