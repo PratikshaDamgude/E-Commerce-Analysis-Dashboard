@@ -21,7 +21,7 @@ The average order value (AOV) is 121K.
 
 
 
- 2. State-wise Performance:
+ #### 2. State-wise Performance:
 
 Maharashtra has the highest sales amount.
 
@@ -29,7 +29,7 @@ Madhya Pradesh, Uttar Pradesh, and Delhi follow in descending order.
 
 
 
-3. Category-wise Sales Distribution:
+#### 3. Category-wise Sales Distribution:
 
 Clothing (63%) contributes the most to sales.
 
@@ -37,7 +37,7 @@ Electronics (21%) and Furniture (17%) also hold significant shares.
 
 
 
- 4. Monthly Profit Trends:
+#### 4. Monthly Profit Trends:
 
 The business sees high profits in the first few months of the year.
 
@@ -47,7 +47,7 @@ Profits recover towards the end of the year.
 
 
 
-5. Payment Mode Distribution:
+#### 5. Payment Mode Distribution:
 
 The most used payment method is Cash on Delivery (COD) at 34%.
 
@@ -55,7 +55,7 @@ Other significant methods include Credit Card (34%), EMI (13%), Debit Card (9%),
 
 
 
- 6. Profit by Sub-Category:
+#### 6. Profit by Sub-Category:
 
 The highest profit-generating product sub-categories are Printers, Bookcases, and Sarees.
 
