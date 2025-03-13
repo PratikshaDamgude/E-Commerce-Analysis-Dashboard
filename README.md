@@ -8,6 +8,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 Owner of Mahadev Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ## Dashboard
+![Uploading Screenshot (24).png…]()
 
 
 
