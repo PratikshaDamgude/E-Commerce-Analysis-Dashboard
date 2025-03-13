@@ -8,7 +8,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 Owner of Mahadev Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ## Dashboard
-https://github.com/PratikshaDamgude/E-Commerce-Analysis-Dashboard/blob/main/E-commerce%20Dashboard.png?raw=true
+![image](https://github.com/user-attachments/assets/85793b66-f0b4-4b05-8be9-e0329188413a)
 
 
 ## Insights 
